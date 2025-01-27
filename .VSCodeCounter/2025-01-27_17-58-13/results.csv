@@ -1,0 +1,21 @@
+"filename", "language", "HTML", "JavaScript", "Markdown", "JSON", "XML", "JavaScript JSX", "CSS", "comment", "blank", "total"
+"c:\Users\origi\Dev Projects\my-portfolio\README.md", "Markdown", 0, 0, 6, 0, 0, 0, 0, 0, 4, 10
+"c:\Users\origi\Dev Projects\my-portfolio\eslint.config.js", "JavaScript", 0, 37, 0, 0, 0, 0, 0, 0, 2, 39
+"c:\Users\origi\Dev Projects\my-portfolio\index.html", "HTML", 13, 0, 0, 0, 0, 0, 0, 0, 1, 14
+"c:\Users\origi\Dev Projects\my-portfolio\package-lock.json", "JSON", 0, 0, 0, 5279, 0, 0, 0, 0, 1, 5280
+"c:\Users\origi\Dev Projects\my-portfolio\package.json", "JSON", 0, 0, 0, 35, 0, 0, 0, 0, 1, 36
+"c:\Users\origi\Dev Projects\my-portfolio\public\vite.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\origi\Dev Projects\my-portfolio\src\App.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 42, 1, 43
+"c:\Users\origi\Dev Projects\my-portfolio\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 12, 0, 4, 3, 19
+"c:\Users\origi\Dev Projects\my-portfolio\src\assets\exit.svg", "XML", 0, 0, 0, 0, 34, 0, 0, 0, 1, 35
+"c:\Users\origi\Dev Projects\my-portfolio\src\assets\minus.svg", "XML", 0, 0, 0, 0, 18, 0, 0, 0, 0, 18
+"c:\Users\origi\Dev Projects\my-portfolio\src\assets\react.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\origi\Dev Projects\my-portfolio\src\components\InfoBox.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 18, 0, 4, 3, 25
+"c:\Users\origi\Dev Projects\my-portfolio\src\index.css", "CSS", 0, 0, 0, 0, 0, 0, 58, 0, 9, 67
+"c:\Users\origi\Dev Projects\my-portfolio\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 9, 0, 0, 2, 11
+"c:\Users\origi\Dev Projects\my-portfolio\src\pages\Contact.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\origi\Dev Projects\my-portfolio\src\pages\Home.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 24, 0, 2, 3, 29
+"c:\Users\origi\Dev Projects\my-portfolio\src\pages\Projects.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\origi\Dev Projects\my-portfolio\src\utils\icons.js", "JavaScript", 0, 3, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\origi\Dev Projects\my-portfolio\vite.config.js", "JavaScript", 0, 12, 0, 0, 0, 0, 0, 1, 2, 15
+"Total", "-", 13, 52, 6, 5314, 54, 63, 58, 53, 36, 5649
