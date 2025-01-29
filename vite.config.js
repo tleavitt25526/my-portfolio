@@ -8,7 +8,6 @@ export default defineConfig({
   root: "./",
   plugins: [react(), tailwindcss(), svgr()],
   server: {
-    open: true,
     historyApiFallback: true,
   },
 });
